@@ -1,26 +1,21 @@
 {
-	"username": "Excalith",
+	"username": "casperong",
 	"theme": {
-		"name": "Default",
-		"backgroundColor": "#121317",
-		"windowColor": "#1e212b",
-		"textColor": "#e2e2e2",
-		"black": "#16161e",
-		"red": "#ec6183",
-		"green": "#2ed8a2",
-		"yellow": "#e8b195",
-		"blue": "#2bc3de",
-		"magenta": "#d1aff8",
-		"cyan": "#62e0e2",
-		"white": "#e2e2e2",
-		"gray": "#97989d"
+		"name": "Nord",
+		"backgroundColor": "#2e3440",
+		"windowColor": "#3b4252",
+		"textColor": "#E5E9F0",
+		"black": "#3B4252",
+		"red": "#BF616A",
+		"green": "#A3BE8C",
+		"yellow": "#EBCB8B",
+		"blue": "#81A1C1",
+		"magenta": "#B48EAD",
+		"cyan": "#88C0D0",
+		"white": "#E5E9F0",
+		"gray": "#d8dee9"
 	},
-	"wallpaper": {
-		"url": "assets/default-wallpaper.svg",
-		"easing": "ease-in-out",
-		"fadeIn": true,
-		"blur": false
-	},
+
 	"terminal": {
 		"fixedHeight": true,
 		"windowGlow": true,
@@ -31,7 +26,7 @@
 	},
 	"prompt": {
 		"ctrlC": true,
-		"placeholder": "command...",
+		"placeholder": "",
 		"placeholderColor": "gray",
 		"userColor": "green",
 		"atColor": "gray",
